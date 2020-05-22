@@ -1,9 +1,9 @@
 <?php
 error_reporting(0);
 ob_start();
-define('API_KEY', '1149987437:AAFDzOiMH-0ZvypCV2UfQpK8pOl93C17t4g');
-$admin = "537924932"; 
-$kanali = "@muloohaza";
+define('API_KEY', '869874064:AAG0Z_1RgDEhl2_2jkeE-cKxNqsfY8-lrA8');
+$admin = "482219058"; 
+$kanali = "@New_Reklamalar";
 //---------- @PHP_New ----------\\
    function del($nomi){
    array_map('unlink', glob("$nomi"));
