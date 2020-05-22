@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 ob_start();
-define('API_KEY', '1149987437:AAFDzOiMH-0ZvypCV2UfQpK8pOl93C17t4g);
+define('API_KEY', 1149987437:AAFDzOiMH-0ZvypCV2UfQpK8pOl93C17t4g);
 $admin = "537924932"; 
 $kanali = "@muloohaza";
 //---------- @PHP_New ----------\\
